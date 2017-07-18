@@ -24,6 +24,15 @@ Things you may want to cover:
 
 * Rails Server
 
+* If this program cant run maybe you must change name project with "emply" or migration or repair public and view
+
+* jika program tidak mau jalan di rail sebaiknya ubah namanya dengan emply atau migrasi atau pindahkan diktori view dan public ke 
+
+  project rail kalian
+
+
+
 @Author @ Eggy fachrurrozy
 
 @Email  @ eggifahrurrozy21@gmaail.com
+
